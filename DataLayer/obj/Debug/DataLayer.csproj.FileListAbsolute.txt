@@ -1,0 +1,23 @@
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.dll
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.dll
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.dll
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.dll
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.dll
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\DataLayer\bin\Debug\DataLayer.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.dll
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\DataLayer\obj\Debug\DataLayer.pdb
