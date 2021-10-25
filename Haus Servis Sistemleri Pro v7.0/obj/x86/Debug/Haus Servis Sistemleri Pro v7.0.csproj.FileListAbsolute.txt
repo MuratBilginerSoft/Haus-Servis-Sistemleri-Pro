@@ -1,0 +1,159 @@
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+C:\Users\mrt_b\Desktop\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausOperatör.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausTakvim.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlamaVeri.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausOperatör.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlamaVeri.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausTakvim.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\4 Çalışmalar\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.İşEmriBilgileri.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausOperatör.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlamaVeri.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausTakvim.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.İşEmriBilgileri.resources
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausOperatör.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlamaVeri.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausTakvim.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.İşEmriBilgileri.resources
+F:\M & B\1 Murat\1 Yazılım\1 C# Programlama\2 Kod Bank Projeler\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.exe
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.exe
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\Haus Servis Sistemleri Pro v7.0.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.dll
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.dll
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\BusinessLayer.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\bin\Debug\DataLayer.pdb
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csprojResolveAssemblyReference.cache
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Deneme.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausDüzenleme.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausHakkında.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausLoginPanel.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausMüşteri.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotEkle.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausNotGözAt.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausOperatör.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlama.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausPlanlamaVeri.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausStartPage.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausTakvim.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausYöneticiPaneli.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriBitir.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.HausİşEmriOluştur.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus_Servis_Sistemleri_Pro_v7._0.İşEmriBilgileri.resources
+G:\03 - Cloud\05 - Github - Akademi\11 - C# Proje Depo\11 - Haus Servis Sistemleri Pro 1\14 Haus Servis Sistemleri Pro v7.0\Haus Servis Sistemleri Pro v7.0\obj\x86\Debug\Haus Servis Sistemleri Pro v7.0.csproj.GenerateResource.Cache
